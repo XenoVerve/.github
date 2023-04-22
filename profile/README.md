@@ -1,6 +1,6 @@
-# XenoVerve: Architects of the Digital Future 🌐🚀
-
 ![XenoVerve Logo](./logo.png)
+
+# XenoVerve: Architects of the Digital Future 🌐🚀
 
 Welcome to **XenoVerve**! We're a friendly, one-man business based in the beautiful country of Austria 🇦🇹, specializing in creating innovative websites and web applications that aim to make your real and digital life a whole lot easier.
 
