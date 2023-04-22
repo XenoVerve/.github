@@ -30,9 +30,8 @@ We offer a wide range of services, including:
 
 If you're interested in working with us or have any questions, feel free to reach out:
 
-- 📧 Email: [info@xenoverve.com](mailto:info@xenoverve.com)
-- 📞 Phone: [+43 (0) 123 456 789](tel:+43123456789)
-- 🐦 Twitter: [@XenoVerve](https://twitter.com/XenoVerve)
+- 📧 Email: [office@xenoverve.com](mailto:office@xenoverve.com)
+- 🐦 Twitter: [@XenoVerve](https://twitter.com/XenoVerveAT)
 - 💼 LinkedIn: [XenoVerve](https://www.linkedin.com/company/xenoverve)
 
 We look forward to hearing from you and helping you bring your digital dreams to life! 🎉
