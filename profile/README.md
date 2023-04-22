@@ -1,4 +1,4 @@
-![XenoVerve Logo](./logo.png)
+![XenoVerve Logo](/profile/logo.png)
 
 # XenoVerve: Architects of the Digital Future 🌐🚀
 
