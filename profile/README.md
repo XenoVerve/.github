@@ -31,7 +31,7 @@ We offer a wide range of services, including:
 If you're interested in working with us or have any questions, feel free to reach out:
 
 - 📧 Email: [office@xenoverve.com](mailto:office@xenoverve.com)
-- 🐦 Twitter: [@XenoVerveAT](https://twitter.com/XenoVerveAT)
+- 🐦 X (Twitter): [@XenoVerveAT](https://twitter.com/XenoVerveAT)
 - 💼 LinkedIn: [XenoVerve](https://www.linkedin.com/company/xenoverve)
 
 We look forward to hearing from you and helping you bring your digital dreams to life! 🎉
